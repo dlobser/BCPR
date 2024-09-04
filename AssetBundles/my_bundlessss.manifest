@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 3408584977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f19d98116f9add250ba81d49e8224b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 34accbf0a3393faffc76779c38920562
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3f19d98116f9add250ba81d49e8224b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fffab6e98d139aa4597a607492e4b9c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6183055b25707aa41aecbe40b7a1f73a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d91500f9f59a7064a8b17bbb27c2eb9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20b708a3b035ea14ab4a01a158ff2307, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a8ad36655f4f844c8885219fc42878a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 340d83da6a839514aa288067cab5d607, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b665214f3b5586645bd65a1fb3c5787b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbc1db024322a4e4fb6ec28b1df1d5d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7815bde9ec8e1be42869d2ce9a3c4aff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e1e3fa2926963e4fa1899c811852edb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d3209acda11c264dbe9a7e2b59d4590, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 137c2148cc87ad24a95e06da487decf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 577c1a78e6c45e34f9f0f34383c112fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f7c63a8b8ea7b4a9b0309b2c6bb844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c826e63cfa84c214f828fac639c41fce, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 164
+  Script: {instanceID: 0}
+- Class: 169
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ON.synth.Oscillators
+- AssemblyName: Assembly-CSharp
+  ClassName: ON.synth.Plug_AudioSynth/Advanced
+- AssemblyName: Assembly-CSharp
+  ClassName: ON.synth.Plug_AudioSynth/Oscillators
+- AssemblyName: Assembly-CSharp
+  ClassName: ON.synth.Plug_AudioSynth/tone
+- AssemblyName: Assembly-CSharp
+  ClassName: ON.synth.Triggers
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomizeGradient/GradientRandomizationRange
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomizeOscillatorLFO/RandomizationRange
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomizeRenderHandlerSiney/ColorRandomizationRange
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomizeRenderHandlerSiney/RandomizationRange
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomizeRenderHandlerSiney/Vector4RandomizationRange
+- AssemblyName: Assembly-CSharp
+  ClassName: tone
+Assets:
+- Assets/BCPR/2024-09/SlowLorisSimple.prefab
+Dependencies: []
