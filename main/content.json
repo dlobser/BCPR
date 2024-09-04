@@ -2,9 +2,8 @@
   "availableContent": [
     {
       "month": "2024-09",
-      "prefabAddresses": [
-        "https://raw.githubusercontent.com/dlobser/BCPR/main/2024-09/SlowLorisSimple.prefab"
-      ]
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles",
+      "prefabNames": ["SlowLorisSimple"]
     }
   ]
 }
