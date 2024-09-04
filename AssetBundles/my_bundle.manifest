@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4213806436
+CRC: 3664620493
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 802041e0e95e5aed386772fe1f255c44
+    Hash: a9bcbb9ce5a32ed53eaa9b80497886dd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 34accbf0a3393faffc76779c38920562
+    Hash: dd24d81ec1cfaf5addf13c56058c6267
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 802041e0e95e5aed386772fe1f255c44
+    Hash: a9bcbb9ce5a32ed53eaa9b80497886dd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,21 +33,25 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 3d55545a41b1a3a45aaef1bcd11d1141, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: fffab6e98d139aa4597a607492e4b9c8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6183055b25707aa41aecbe40b7a1f73a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d91500f9f59a7064a8b17bbb27c2eb9f, type: 3}
+  Script: {fileID: 11500000, guid: c94c21be0bc10bb43a17fa32c8a97ac1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 20b708a3b035ea14ab4a01a158ff2307, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4a8ad36655f4f844c8885219fc42878a, type: 3}
+  Script: {fileID: 11500000, guid: 3f472ddd90f44794889ef39d6c70d03e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 340d83da6a839514aa288067cab5d607, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b665214f3b5586645bd65a1fb3c5787b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bbc1db024322a4e4fb6ec28b1df1d5d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5643957ffc9afd04498d5f436ace12c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05f07718921a28c47b331320f3415a9e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7815bde9ec8e1be42869d2ce9a3c4aff, type: 3}
 - Class: 114
@@ -64,11 +68,13 @@ ClassTypes:
   Script: {fileID: 11500000, guid: c826e63cfa84c214f828fac639c41fce, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 164
+- Class: 135
   Script: {instanceID: 0}
 - Class: 169
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ColorPaletteScriptableObject/ColorArray
 - AssemblyName: Assembly-CSharp
   ClassName: ON.synth.Oscillators
 - AssemblyName: Assembly-CSharp
@@ -80,7 +86,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: ON.synth.Triggers
 - AssemblyName: Assembly-CSharp
-  ClassName: RandomizeGradient/GradientRandomizationRange
+  ClassName: RandomizeGradientArray/GradientRandomizationRange
 - AssemblyName: Assembly-CSharp
   ClassName: RandomizeOscillatorLFO/RandomizationRange
 - AssemblyName: Assembly-CSharp
@@ -89,8 +95,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: RandomizeRenderHandlerSiney/RandomizationRange
 - AssemblyName: Assembly-CSharp
   ClassName: RandomizeRenderHandlerSiney/Vector4RandomizationRange
-- AssemblyName: Assembly-CSharp
-  ClassName: tone
 Assets:
-- Assets/BCPR/2024-09/SlowLorisSimple.prefab
+- Assets/Prefabs/Good/LifeSource.prefab
+- Assets/Prefabs/Good/DonutLattice.prefab
+- Assets/Prefabs/Good/SpiderRose.prefab
 Dependencies: []
