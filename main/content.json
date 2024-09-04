@@ -3,6 +3,7 @@
     {
       "month": "2024-09",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
+      "version" : "1.0",
       "prefabNames": ["SlowLorisSimple"]
     }
   ]
