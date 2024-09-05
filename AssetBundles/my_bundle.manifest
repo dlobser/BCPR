@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1766188315
+CRC: 3486585654
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e3172f92131b1e3adcbf350f8983193f
+    Hash: 1f73d288ce97a4bdfa0e857797ae1b60
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3aba9e09707cf3958412e90ce123b0d9
+    Hash: b12d0f5955bc26bf73400df8b2fc7212
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e3172f92131b1e3adcbf350f8983193f
+    Hash: 1f73d288ce97a4bdfa0e857797ae1b60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,9 +39,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 6183055b25707aa41aecbe40b7a1f73a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: ed5440c404011ef4ea15da94cf92e6d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bb31c677fb9b3241bb6fb6f716f09ef, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: c94c21be0bc10bb43a17fa32c8a97ac1, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: d91500f9f59a7064a8b17bbb27c2eb9f, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 20b708a3b035ea14ab4a01a158ff2307, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a8ad36655f4f844c8885219fc42878a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3f472ddd90f44794889ef39d6c70d03e, type: 3}
 - Class: 114
@@ -90,6 +98,8 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: ON.synth.Triggers
 - AssemblyName: Assembly-CSharp
+  ClassName: RandomizeGradient/GradientRandomizationRange
+- AssemblyName: Assembly-CSharp
   ClassName: RandomizeGradientArray/GradientRandomizationRange
 - AssemblyName: Assembly-CSharp
   ClassName: RandomizeOscillatorLFO/RandomizationRange
@@ -102,9 +112,21 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: tone
 Assets:
+- Assets/Prefabs/Good/BubbleWrap.prefab
+- Assets/Prefabs/Good/SpiderPerson.prefab
+- Assets/Prefabs/Good/DonutQuibble.prefab
+- Assets/Prefabs/Good/Strobe_Variable.prefab
+- Assets/Prefabs/Good/DoubleChunkyMonkey.prefab
 - Assets/Prefabs/Good/BreathingBear.prefab
+- Assets/Prefabs/Good/MouthBreather.prefab
+- Assets/Prefabs/Good/SlowLoris.prefab
+- Assets/Prefabs/Good/StinkyWinky.prefab
+- Assets/Prefabs/Good/Colonoscopy.prefab
 - Assets/Prefabs/Good/LifeSource.prefab
+- Assets/Prefabs/Good/RedLightCoffeeShop.prefab
 - Assets/Prefabs/Good/DonutLattice.prefab
 - Assets/Prefabs/Good/BallHandler.prefab
+- Assets/Prefabs/Good/MakeLikeATree.prefab
 - Assets/Prefabs/Good/SpiderRose.prefab
+- Assets/Prefabs/Good/LuckyLlama.prefab
 Dependencies: []
