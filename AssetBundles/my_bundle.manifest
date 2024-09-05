@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3664620493
+CRC: 1766188315
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a9bcbb9ce5a32ed53eaa9b80497886dd
+    Hash: e3172f92131b1e3adcbf350f8983193f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dd24d81ec1cfaf5addf13c56058c6267
+    Hash: 3aba9e09707cf3958412e90ce123b0d9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a9bcbb9ce5a32ed53eaa9b80497886dd
+    Hash: e3172f92131b1e3adcbf350f8983193f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,6 +36,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3d55545a41b1a3a45aaef1bcd11d1141, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fffab6e98d139aa4597a607492e4b9c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6183055b25707aa41aecbe40b7a1f73a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c94c21be0bc10bb43a17fa32c8a97ac1, type: 3}
 - Class: 114
@@ -70,6 +72,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
+- Class: 164
+  Script: {instanceID: 0}
 - Class: 169
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
@@ -95,8 +99,12 @@ SerializeReferenceClassIdentifiers:
   ClassName: RandomizeRenderHandlerSiney/RandomizationRange
 - AssemblyName: Assembly-CSharp
   ClassName: RandomizeRenderHandlerSiney/Vector4RandomizationRange
+- AssemblyName: Assembly-CSharp
+  ClassName: tone
 Assets:
+- Assets/Prefabs/Good/BreathingBear.prefab
 - Assets/Prefabs/Good/LifeSource.prefab
 - Assets/Prefabs/Good/DonutLattice.prefab
+- Assets/Prefabs/Good/BallHandler.prefab
 - Assets/Prefabs/Good/SpiderRose.prefab
 Dependencies: []
