@@ -10,9 +10,16 @@
     {
       "name": "Energize",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
-      "version" : "1.0",
-      "prefabNames": ["BubbleWrap","SpiderPerson","DonutQuibble","Strobe_Variable","DoubleChunkyMonkey","BreathingBear","MouthBreather","SlowLoris","StinkyWinky","Colonoscopy"],
-      "productId" : "001"
+      "version": "1.0",
+      "prefabNames": [ "BubbleWrap", "SpiderPerson", "DonutQuibble", "Strobe_Variable", "DoubleChunkyMonkey", "BreathingBear", "MouthBreather", "SlowLoris", "StinkyWinky", "Colonoscopy" ],
+      "productId": "001"
+    },
+    {
+      "name": "Pack1",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/pack1",
+      "version": "1.0",
+      "prefabNames": [ "Pack1" ],
+      "productId": "002"
     }
   ]
 }
