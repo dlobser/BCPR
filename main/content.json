@@ -2,21 +2,21 @@
   "availableContent": [
     {
       "name": "Breathing",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
-      "version" : "1.0",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/AssetBundles/my_bundle",
+      "version": "1.0",
       "prefabNames": [ "Breathing" ],
-      "productId" : "000"
+      "productId": "000"
     },
     {
       "name": "PureStrobing",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/AssetBundles/my_bundle",
       "version": "1.0",
       "prefabNames": [ "PureStrobing" ],
       "productId": "001"
     },
     {
       "name": "Pack1",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/pack1",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/AssetBundles/pack1",
       "version": "1.0",
       "prefabNames": [ "Pack1" ],
       "productId": "002"
