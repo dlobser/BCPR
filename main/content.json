@@ -4,14 +4,14 @@
       "name": "Breathing",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
       "version" : "1.0",
-      "prefabNames": ["Breathing"],
+      "prefabNames": [ "Breathing" ],
       "productId" : "000"
     },
     {
       "name": "PureStrobing",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
       "version": "1.0",
-      "prefabNames": ["PureStrobing"],
+      "prefabNames": [ "PureStrobing" ],
       "productId": "001"
     },
     {

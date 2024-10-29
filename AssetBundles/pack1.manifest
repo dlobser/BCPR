@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2313937741
+CRC: 61373487
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 91eddca83e48c6bc05a2ec4f0278383e
+    Hash: d1dbb9ea34440054109e164c373abbe7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6733b6f138e08c8893d057da5d1ece7c
+    Hash: 52adeae479eeb4197b7f7b6d11f39c64
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 91eddca83e48c6bc05a2ec4f0278383e
+    Hash: d1dbb9ea34440054109e164c373abbe7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,6 +37,10 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 6183055b25707aa41aecbe40b7a1f73a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 1bb31c677fb9b3241bb6fb6f716f09ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a8ad36655f4f844c8885219fc42878a, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 5643957ffc9afd04498d5f436ace12c5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 05f07718921a28c47b331320f3415a9e, type: 3}
@@ -47,7 +51,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3d55545a41b1a3a45aaef1bcd11d1141, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: ed5440c404011ef4ea15da94cf92e6d0, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: c94c21be0bc10bb43a17fa32c8a97ac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30d49252efd82fb4b9b96c54b233ea52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d91500f9f59a7064a8b17bbb27c2eb9f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 20b708a3b035ea14ab4a01a158ff2307, type: 3}
 - Class: 114
@@ -60,6 +70,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: bbc1db024322a4e4fb6ec28b1df1d5d7, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7815bde9ec8e1be42869d2ce9a3c4aff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b21677cdc1dc7d46a3a7f3c1266c968, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7e1e3fa2926963e4fa1899c811852edb, type: 3}
 - Class: 114
@@ -90,6 +102,8 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: ON.synth.Triggers
 - AssemblyName: Assembly-CSharp
+  ClassName: RandomizeGradient/GradientRandomizationRange
+- AssemblyName: Assembly-CSharp
   ClassName: RandomizeGradientArray/GradientRandomizationRange
 - AssemblyName: Assembly-CSharp
   ClassName: RandomizeOscillatorLFO/RandomizationRange
@@ -103,4 +117,5 @@ SerializeReferenceClassIdentifiers:
   ClassName: tone
 Assets:
 - Assets/Prefabs/Packs/Pack1.prefab
+- Assets/Prefabs/Pack1.prefab
 Dependencies: []
