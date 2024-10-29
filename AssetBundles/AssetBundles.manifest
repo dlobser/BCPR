@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 4132399220
+CRC: 583900017
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: pack1
+      Name: my_bundle
       Dependencies: {}
     Info_1:
-      Name: my_bundle
+      Name: pack1
       Dependencies: {}

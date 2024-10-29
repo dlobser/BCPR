@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 61373487
+CRC: 3119480584
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d1dbb9ea34440054109e164c373abbe7
+    Hash: 3b4d19efbed59e014c7105bf8b40ba26
   TypeTreeHash:
     serializedVersion: 2
     Hash: 52adeae479eeb4197b7f7b6d11f39c64
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d1dbb9ea34440054109e164c373abbe7
+    Hash: 3b4d19efbed59e014c7105bf8b40ba26
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -117,5 +117,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: tone
 Assets:
 - Assets/Prefabs/Packs/Pack1.prefab
-- Assets/Prefabs/Pack1.prefab
 Dependencies: []
