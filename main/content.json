@@ -1,17 +1,17 @@
 {
   "availableContent": [
     {
-      "name": "Relax",
+      "name": "Breathing",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
       "version" : "1.0",
-      "prefabNames": ["LifeSource","RedLightCoffeeShop","DonutLattice","BallHandler","MakeLikeATree","SpiderRose","LuckyLlama"],
+      "prefabNames": ["Breathing"],
       "productId" : "000"
     },
     {
-      "name": "Energize",
+      "name": "PureStrobing",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
       "version": "1.0",
-      "prefabNames": [ "BubbleWrap", "SpiderPerson", "DonutQuibble", "Strobe_Variable", "DoubleChunkyMonkey", "BreathingBear", "MouthBreather", "SlowLoris", "StinkyWinky", "Colonoscopy" ],
+      "prefabNames": ["PureStrobing"],
       "productId": "001"
     },
     {
