@@ -102,5 +102,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: tone
 Assets:
-- Assets/Prefabs/Pack1.prefab
+- Assets/Prefabs/Packs/Pack1.prefab
 Dependencies: []
