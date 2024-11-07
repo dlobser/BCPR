@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 583900017
+CRC: 3926526842
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: my_bundle
-      Dependencies: {}
-    Info_1:
-      Name: pack1
+      Name: tastingsampler
       Dependencies: {}
