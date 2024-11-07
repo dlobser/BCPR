@@ -1,28 +1,20 @@
 {
   "availableContent": [
     {
-      "name": "Breathing",
-      "description": "Some very nice breathing experiences with a breathing pacer",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
+      "name": "Tasting Sampler",
+      "description": "A sample pack of half a dozen flavors to whet your appetite",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/tastingsampler",
       "version" : "1.0",
-      "prefabNames": [ "Breathing" ],
+      "prefabNames": [ "TastingSampler" ],
       "productId" : "000"
     },
     {
-      "name": "PureStrobing",
-      "description": "Just straight up strobing, strobe your brain - hazzahhh",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/my_bundle",
+      "name": "Original Flavors",
+      "description": "Two dozen candies, designed to relax, focus, and energize your brain",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/originalflavors",
       "version": "1.0",
-      "prefabNames": [ "PureStrobing" ],
+      "prefabNames": [ "OriginalFlavors" ],
       "productId": "001"
-    },
-    {
-      "name": "Pack1",
-      "description": "A test pack, made just for you, enjoy it, but not too much, don't want to become too addicated, jk, let's get addicted!",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/pack1",
-      "version": "1.0",
-      "prefabNames": [ "Pack1" ],
-      "productId": "002"
     }
   ]
 }
