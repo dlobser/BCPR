@@ -4,8 +4,8 @@
       "name": "Tasting Sampler",
       "description": "A sample pack of half a dozen flavors to whet your appetite",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/tastingsampler",
-      "version" : "1.0",
-      "appVersion" : 1,
+      "version" : "1.3",
+      "appVersion" : 3,
       "prefabNames": [ "TastingSampler" ],
       "productId" : "000"
     },
@@ -13,8 +13,8 @@
       "name": "Original Flavors",
       "description": "Two dozen candies, designed to relax, focus, and energize your brain",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/originalflavors",
-      "version": "1.2",
-      "appVersion" : 2,
+      "version": "1.3",
+      "appVersion" : 3,
       "prefabNames": [ "OriginalFlavors" ],
       "productId": "001"
     }
