@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1148087456
+CRC: 4254132482
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: originalflavors
+      Name: tastingsampler
       Dependencies: {}
