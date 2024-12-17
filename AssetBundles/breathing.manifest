@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.29f1
-CRC: 1030894403
+CRC: 3427451762
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fa7a9df45eea6683cd0b6dbf972810d8
+    Hash: 1eeeee9a44bf826ce19b587702d6dd85
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 70660ba73cc9507105fbf5a6d59ccf7c
+    Hash: 78f4e9fbb9bbee694526d816912d4b71
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 243c0f616932d02413797110b95226f5
+    Hash: 78955cd19cd27009bacd3018a8ad6dac
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,14 +33,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 7e1e3fa2926963e4fa1899c811852edb, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: ed5440c404011ef4ea15da94cf92e6d0, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 3f472ddd90f44794889ef39d6c70d03e, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d91500f9f59a7064a8b17bbb27c2eb9f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7815bde9ec8e1be42869d2ce9a3c4aff, type: 3}
 - Class: 114
@@ -54,13 +52,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: b665214f3b5586645bd65a1fb3c5787b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: f9f7c63a8b8ea7b4a9b0309b2c6bb844, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: c94c21be0bc10bb43a17fa32c8a97ac1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fffab6e98d139aa4597a607492e4b9c8, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4a8ad36655f4f844c8885219fc42878a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c826e63cfa84c214f828fac639c41fce, type: 3}
 - Class: 114
@@ -70,7 +64,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4b21677cdc1dc7d46a3a7f3c1266c968, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 783a2ae83c80e6e4795144c4eb99ec8f, type: 3}
+  Script: {fileID: 11500000, guid: f2b1faf94ee47f14aa8dc4af4c231a01, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 05f07718921a28c47b331320f3415a9e, type: 3}
 - Class: 114
@@ -84,26 +78,20 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: bbc1db024322a4e4fb6ec28b1df1d5d7, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 1bb31c677fb9b3241bb6fb6f716f09ef, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 30d49252efd82fb4b9b96c54b233ea52, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 128
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
 - Class: 164
-  Script: {instanceID: 0}
-- Class: 166
-  Script: {instanceID: 0}
-- Class: 168
   Script: {instanceID: 0}
 - Class: 169
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: .ColorPaletteScriptableObject/ColorArray
-- AssemblyName: Assembly-CSharp
-  ClassName: .RandomizeGradient/GradientRandomizationRange
 - AssemblyName: Assembly-CSharp
   ClassName: .RandomizeGradientArray/GradientRandomizationRange
 - AssemblyName: Assembly-CSharp
@@ -127,5 +115,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: ON.synth.Triggers
 Assets:
-- Assets/Prefabs/Packs/OriginalFlavors.prefab
+- Assets/Prefabs/Packs/Breathing.prefab
 Dependencies: []
