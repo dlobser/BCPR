@@ -12,11 +12,20 @@
     {
       "name": "Breathing",
       "description": "Guided breathing pacers to massage your sympathetic nervous system",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/originalflavors",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/breathing",
+      "version" : "1.0",
+      "appVersion" : 1,
+      "prefabNames": [ "Breathing" ],
+      "productId" : "001"
+    },
+    {
+      "name": "Breathing2",
+      "description": "Guided breathing pacers to massage your sympathetic nervous system",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/breathing",
       "version" : "1.1",
       "appVersion" : 1,
-      "prefabNames": [ "OriginalFlavors" ],
-      "productId" : "001"
+      "prefabNames": [ "Breathing" ],
+      "productId" : "998"
     },
     {
       "name": "Favorites",
