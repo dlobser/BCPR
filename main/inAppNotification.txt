@@ -1,1 +1,1 @@
-You are using version {{}}, please update to the latest version to get the latest content and features.
+You are using version {{version}}, please update to the latest version to get the latest content and features.
