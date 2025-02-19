@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.29f1
-CRC: 985328053
+CRC: 3539314918
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: breathing2
+      Name: originalflavors2
       Dependencies: {}
