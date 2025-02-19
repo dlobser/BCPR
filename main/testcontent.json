@@ -4,7 +4,7 @@
       "name": "Original Flavors",
       "description": "Twenty eight candies, designed to relax, focus, and energize your brain",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/originalflavors2",
-      "version": "2.3",
+      "version": "2.4",
       "appVersion" : 1,
       "prefabNames": [ "OriginalFlavors" ],
       "productId": "000"
