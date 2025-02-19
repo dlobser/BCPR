@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.29f1
-CRC: 3244055827
+CRC: 2793909496
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db2028f6b575f0c2eeead6bfa0ca408a
+    Hash: 7caa3c676c297f351215ee389160d116
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d5cead9c8588f63811616855023c1a2e
+    Hash: 6b6686c23dd87cf0f6882acd45dc7ccf
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c266466ff20b0db37108fa205bd44ae7
+    Hash: ca1baa3232a2dabd02e94ac62c3f6208
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,6 +28,8 @@ ClassTypes:
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 65
   Script: {instanceID: 0}
 - Class: 82
   Script: {instanceID: 0}
@@ -135,5 +137,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: ON.synth.Triggers
 Assets:
-- Assets/Prefabs/Packs/Breathing.prefab
+- Assets/_Main/Prefabs/Packs/Breathing.prefab
 Dependencies: []
