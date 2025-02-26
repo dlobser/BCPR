@@ -13,10 +13,10 @@
       "name": "Breathing",
       "description": "Guided breathing pacers to massage your sympathetic nervous system",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/breathing2",
-      "version" : "1.6",
+      "version" : "1.7",
       "appVersion" : 1,
       "prefabNames": [ "Breathing" ],
-      "productId" : "010"
+      "productId" : "011"
     },
     {
       "name": "TastingSampler",
