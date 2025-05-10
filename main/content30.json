@@ -1,0 +1,31 @@
+{
+  "availableContent": [
+    {
+      "name": "Original Flavors",
+      "description": "Twenty eight candies, designed to relax, focus, and energize your brain",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/originalflavors2",
+      "version": "2.5",
+      "appVersion" : 1,
+      "prefabNames": [ "OriginalFlavors" ],
+      "productId": "000"
+    },
+    {
+      "name": "Breathing",
+      "description": "Free preview beta test. Guided breathing pacers to massage your sympathetic nervous system",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/breathing3",
+      "version" : "2.0",
+      "appVersion" : 1,
+      "prefabNames": [ "Breathing" ],
+      "productId" : "013"
+    },
+    {
+      "name": "Favorites",
+      "description": "Favorites you save will show up here",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/favorites",
+      "version" : "1.0",
+      "appVersion" : 1,
+      "prefabNames": [ "Favorites" ],
+      "productId" : "999"
+    }
+  ]
+}
