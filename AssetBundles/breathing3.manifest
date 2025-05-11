@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.29f1
-CRC: 1357557131
+CRC: 940193965
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5aa1935618b1ede52105f0f9fef1801d
+    Hash: e1a377b248528bde88e1841b384aaf83
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1fecb3f361ef8a497936f8bd64e18648
+    Hash: 89b347ead960fa1407b427564edf574e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8fac8db8719c461e440eb39136293445
+    Hash: 63bc394e3bfc135a493497bd4a212725
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -113,6 +113,16 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 30d49252efd82fb4b9b96c54b233ea52, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6b69de371dc6101499eeb24d2a9af9d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0967dda7f2ec35448f3f4813456127c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50270ca8416fb7742b3af609c55aa208, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bb7d609b0af7044dac6b9cff64d7e23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 252e6178001964341a153c91e267d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d21a3e5188f704498b9111e004ac47f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -150,6 +160,10 @@ SerializeReferenceClassIdentifiers:
   ClassName: .MeditationAudioManager/ParagraphRule
 - AssemblyName: Assembly-CSharp
   ClassName: .MeditationAudioManager/PlaybackSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: .MeditationPlayer/ParagraphRule
+- AssemblyName: Assembly-CSharp
+  ClassName: .MeditationPlayer/PlaybackSettings
 - AssemblyName: Assembly-CSharp
   ClassName: .RandomizeGradientArray/GradientRandomizationRange
 - AssemblyName: Assembly-CSharp
