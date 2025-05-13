@@ -1,0 +1,49 @@
+{
+    "meditationName": "BoxIntro",
+    "paragraphData": [
+        {
+            "paragraph": 0,
+            "sentences": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "paragraph": 1,
+            "sentences": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "paragraph": 2,
+            "sentences": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "lastUpdated": "2025-05-13T18:58:48.7798156Z"
+}
