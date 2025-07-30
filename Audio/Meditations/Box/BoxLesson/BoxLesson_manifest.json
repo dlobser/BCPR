@@ -1,0 +1,50 @@
+{
+    "meditationName": "BoxLesson",
+    "paragraphData": [
+        {
+            "paragraph": 0,
+            "sentences": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "paragraph": 1,
+            "sentences": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "paragraph": 2,
+            "sentences": [
+                0,
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "lastUpdated": "2025-07-13T13:20:13.2534479Z"
+}
