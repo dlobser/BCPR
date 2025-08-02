@@ -1,6 +1,2 @@
 Version: {{version}}
-Breathing is nearing completion!
-An update will be available soon
-Once complete, it will no longer be free
-Fill out the website survey for a discount
-
+Version 0.1.32 is almost out!
