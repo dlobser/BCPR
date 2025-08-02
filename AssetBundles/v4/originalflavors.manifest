@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.29f1
-CRC: 3137172708
+CRC: 4009999905
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5bf7bd493153a48fed1718505566c2c8
+    Hash: 16d6a613439026c1d840db608743d2ff
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e6feeccfccc1a2ac7270babdd3e46bc8
+    Hash: d8ee3947ecfe44f138ed93ea24d01bd2
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 345b644950c61e733820b9d3b5c98f40
+    Hash: a647198d6dedd9d835ba2ee5ca8e9784
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,6 +82,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 7815bde9ec8e1be42869d2ce9a3c4aff, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: ba0da23c3adbe4d4f8031c2b6a05b3d4, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4b21677cdc1dc7d46a3a7f3c1266c968, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 139e15bce50a1ee4a8b12ab6a2dd1263, type: 3}
@@ -89,6 +91,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3f472ddd90f44794889ef39d6c70d03e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b665214f3b5586645bd65a1fb3c5787b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 783a2ae83c80e6e4795144c4eb99ec8f, type: 3}
 - Class: 114
@@ -124,6 +128,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: bbc1db024322a4e4fb6ec28b1df1d5d7, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: cc2ef69fc398e47419bdd98d8d79afed, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 70b70f57b2d05b6439a8c8fbc6985e00, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1bb31c677fb9b3241bb6fb6f716f09ef, type: 3}
@@ -134,9 +140,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 30d49252efd82fb4b9b96c54b233ea52, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b69de371dc6101499eeb24d2a9af9d5, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 61fc0f7a9bc90404299e59a436afce93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b69de371dc6101499eeb24d2a9af9d5, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -166,6 +172,10 @@ ClassTypes:
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: .ColorPaletteScriptableObject/ColorArray
+- AssemblyName: Assembly-CSharp
+  ClassName: .DelayNetwork/DelayNode
+- AssemblyName: Assembly-CSharp
+  ClassName: .DelayNetwork/NodeConnection
 - AssemblyName: Assembly-CSharp
   ClassName: .RandomizeGradient/GradientRandomizationRange
 - AssemblyName: Assembly-CSharp
