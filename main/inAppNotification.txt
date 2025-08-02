@@ -1,3 +1,2 @@
 Version: {{version}}
-Version 0.1.31 is out!
-More info at braincandyapp.com
+Version 0.1.32 is almost out!
