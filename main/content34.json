@@ -4,7 +4,7 @@
       "name": "Original Flavors",
       "description": "Twenty eight candies, designed to relax, focus, and energize your brain",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/v6/originalflavors",
-      "version": "3.0",
+      "version": "3.1",
       "appVersion" : 1,
       "prefabNames": [ "OriginalFlavors" ],
       "productId": "000"
@@ -13,7 +13,7 @@
       "name": "Breathing",
       "description": "Free preview beta test. Guided breathing pacers to massage your sympathetic nervous system",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/v6/breathing",
-      "version" : "2.7",
+      "version" : "2.8",
       "appVersion" : 1,
       "prefabNames": [ "Breathing" ],
       "productId" : "013"
