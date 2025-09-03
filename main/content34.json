@@ -11,12 +11,12 @@
     },
     {
       "name": "Breathing",
-      "description": "Free preview beta test. Guided breathing pacers to massage your sympathetic nervous system",
+      "description": "Guided breathing pacers to massage your sympathetic nervous system",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/v6/breathing",
-      "version" : "2.8",
+      "version" : "2.9",
       "appVersion" : 1,
       "prefabNames": [ "Breathing" ],
-      "productId" : "013"
+      "productId" : "101"
     },
     {
       "name": "Favorites",
