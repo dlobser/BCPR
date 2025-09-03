@@ -1,0 +1,15 @@
+﻿{
+  "version": "2025-09-03T14:52:01Z",
+  "videos": [
+    {
+      "url": "https://raw.githubusercontent.com/dlobser/BCPR/main/Images/Zoom/Original/ZoomCandy_01.mp4",
+      "sha256": "c64f80b1f56006763de7ab1d38026edca0c24bace9dcdbdcff733cad0a4b46e0",
+      "bytes": 45609632
+    },
+    {
+      "url": "https://raw.githubusercontent.com/dlobser/BCPR/main/Images/Zoom/Original/ZoomForest_01.mp4",
+      "sha256": "63c832eb66a0ef6c00094dba869ddd231c9f1b90779626172e0f7826992f52bc",
+      "bytes": 16242977
+    }
+  ]
+}
