@@ -1,6 +1,3 @@
-Your Version: {{version}}
-Version 0.1.36 has been released!
-The new breathwork pack
-is out of preview.
-Fill out our survey and receive a discount.
+Version: {{version}}
+Version 0.1.32 has been released!
 braincandyapp.com for details
