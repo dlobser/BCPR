@@ -1,5 +1,5 @@
 Version: {{version}}
-Version 0.1.37 has been released!
+Version 0.1.39 has been released!
 Breathing is now a paid DLC pack
 Fill out the survey at braincandyapp.com
 for a discount, your support
