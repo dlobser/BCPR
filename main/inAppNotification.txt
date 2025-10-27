@@ -1,6 +1,4 @@
 Version: {{version}}
-Version 0.1.39 has been released!
-Breathing is now a paid DLC pack
-Fill out the survey at braincandyapp.com
-for a discount, your support
-makes ongoing development possible!
+Happy Halloween!
+To celebrate there is a special,
+new candy inside of -preview-

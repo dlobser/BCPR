@@ -2,9 +2,9 @@
   "availableContent": [
     {
       "name": "Original Flavors",
-      "description": "Twenty eight candies, designed to relax, focus, and energize your brain",
-      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/v6/originalflavors",
-      "version": "3.5",
+      "description": "A variety box of candies, designed to relax, focus, and energize your brain",
+      "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/v6.5/originalflavors",
+      "version": "3.6",
       "appVersion" : 1,
       "prefabNames": [ "OriginalFlavors" ],
       "productId": "000"
