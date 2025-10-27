@@ -1,0 +1,50 @@
+{
+  "meditationName": "Halloween",
+  "paragraphData": [
+    {
+      "paragraph": 0,
+      "sentences": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "paragraph": 1,
+      "sentences": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "paragraph": 2,
+      "sentences": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "lastUpdated": "2025-10-27T14:04:45.4168993Z"
+}
