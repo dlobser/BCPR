@@ -1,4 +1,4 @@
 Your Version: {{version}}
 Current version 0.1.39
-Make sure to update to
-see the latest content
+Stay updated to see
+the latest content
