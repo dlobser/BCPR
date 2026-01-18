@@ -10,6 +10,11 @@
       "url": "https://raw.githubusercontent.com/dlobser/BCPR/main/Images/Zoom/Original/ZoomForest_01.mp4",
       "sha256": "63c832eb66a0ef6c00094dba869ddd231c9f1b90779626172e0f7826992f52bc",
       "bytes": 16242977
+    },
+    {
+      "url": "https://raw.githubusercontent.com/dlobser/BCPR/main/Images/Zoom/Original/ZoomDream_02.mp4",
+      "sha256": "c71cba9b000fd82a88ca0f2a91c94488d354758a2239d4261a17a814602fafb9",
+      "bytes": 50072747
     }
   ]
 }
