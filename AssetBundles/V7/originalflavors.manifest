@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.29f1
-CRC: 211676285
+CRC: 2783601435
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 965ec60a8bcb519fff260542d86a9979
+    Hash: 7b354a667a89cdb2535ff6a035e35e4c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2f6a81e2dca25b3a8466caa3f2c3254f
+    Hash: 19a43d9c6e82f8675cbdf585fa8f1363
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 61947af9e24ff2b6785e9dd10f2b42c8
+    Hash: d648b53828eba7ac896c56c73d0ba6e1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -314,6 +314,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: .ShaderPropertySingleMaterial/TextureProp
 - AssemblyName: Assembly-CSharp
   ClassName: .ShaderPropertySingleMaterial/Vector4Prop
+- AssemblyName: Assembly-CSharp
+  ClassName: .WorldPosActivationObject
 - AssemblyName: Assembly-CSharp
   ClassName: .tone
 - AssemblyName: Assembly-CSharp
