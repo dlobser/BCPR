@@ -4,7 +4,7 @@
       "name": "Original Flavors",
       "description": "A variety box of candies, designed to relax, focus, and energize your brain",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/V7/originalflavors",
-      "version": "4.2",
+      "version": "4.3",
       "appVersion" : 1,
       "prefabNames": [ "OriginalFlavors" ],
       "productId": "000"
