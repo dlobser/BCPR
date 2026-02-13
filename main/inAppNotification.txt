@@ -1,4 +1,4 @@
 Your Version: {{version}}
-Current version 0.1.39
-Stay updated to see
-the latest content
+Current version 0.1.42
+Happy Valentine's Season!
+Stay updated to see a new Valentine's candy
