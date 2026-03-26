@@ -4,7 +4,7 @@
       "name": "Original Flavors",
       "description": "A variety box of candies, designed to relax, focus, and energize your brain",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/Steam/V1/originalflavors",
-      "version": "1.0",
+      "version": "1.1",
       "appVersion" : 1,
       "prefabNames": [ "OriginalFlavors" ],
       "productId": "000"
@@ -13,7 +13,7 @@
       "name": "Breathing",
       "description": "Guided breathing pacers to massage your sympathetic nervous system",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/Steam/V1/breathing",
-      "version" : "1.0",
+      "version" : "1.1",
       "appVersion" : 1,
       "prefabNames": [ "Breathing" ],
       "productId" : "101"
@@ -22,7 +22,7 @@
       "name": "Favorites",
       "description": "Favorites you save will show up here",
       "assetBundleUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/AssetBundles/Steam/V1/favorites",
-      "version" : "1.0",
+      "version" : "1.1",
       "appVersion" : 1,
       "prefabNames": [ "Favorites" ],
       "productId" : "999"
