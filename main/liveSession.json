@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "title": "Live Session",
+  "description": "Guided group journey",
+  "roomName": "Candy Factory",
+  "sceneName": "Normal_Networking",
+  "minAppVersion": 0,
+  "audioBaseUrl": "https://raw.githubusercontent.com/dlobser/BCPR/main/LiveSession/Audio/",
+  "audioFolderApiUrl": "https://api.github.com/repos/dlobser/BCPR/contents/LiveSession/Audio",
+  "audio": []
+}
