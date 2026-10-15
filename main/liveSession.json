@@ -1,5 +1,6 @@
 {
   "enabled": true,
+  "hostPin": "3258",
   "title": "Live Session",
   "description": "Guided group journey",
   "roomName": "Candy Factory",
