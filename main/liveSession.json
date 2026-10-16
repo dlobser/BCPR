@@ -1,6 +1,8 @@
 {
   "enabled": true,
   "hostPin": "3258",
+  "usePassword": true,
+  "password": "4862",
   "title": "Live Session",
   "description": "Guided group journey",
   "roomName": "Candy Factory",
